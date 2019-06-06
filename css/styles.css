@@ -16,6 +16,7 @@
     position: relative;
     left: 15%;
     border-radius: 40%;
+    padding: 2%;
 }
 .footer-greeting {
     text-align: center;
@@ -129,7 +130,7 @@ h3 {
 hr {
     border: dotted #EAF6F6 6px;
     border-bottom: none;
-    width: 70%;
+    width: 100%;
 }
 
 span{
