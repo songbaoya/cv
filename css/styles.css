@@ -3,13 +3,26 @@
 
 }
 
+.contact-detail {
+    color: white;
+}
+
+.contact-me {
+    background-color: darkolivegreen;
+    width: 70%;
+    alignment: center;
+    position: relative;
+    left: 15%;
+    border-radius: 40%;
+}
 .footer-greeting {
     text-align: center;
+    color: powderblue;
 }
 
 .code-img {
-    width: 10%;
-    height: 10%;
+    width: 5%;
+    height: 5%;
     float: left;
     margin-right: 20px;
 }
@@ -41,9 +54,23 @@
   width: 180px;
 }
 
+.profile {
+
+}
+
 .skill-intro {
     text-align: left;
+    width: 70%;
 }
+
+.skill-row {
+    padding-left: 19%;
+    padding-top: 2%;
+
+}
+
+}
+
 .top-background {
   bottom: 100px;
   display: inline-block;
@@ -96,6 +123,11 @@ h3 {
     text-align: left;
 }
 
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 70%;
+}
 
 span{
 
